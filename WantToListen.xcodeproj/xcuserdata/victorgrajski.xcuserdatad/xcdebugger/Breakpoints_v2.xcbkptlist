@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E0448398-654C-4F9B-8E2C-8DA518CDDC83"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89F63B55-B3FF-40A4-A86F-7BBF155A5508"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WantToListen/AlbumDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "actionSheet"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A242CB32-FFEB-4C22-8A42-9452B922B479"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WantToListen/AlbumDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "actionSheet"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0085E3F5-324F-48CD-B529-8F6C6797A7F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WantToListen/AlbumDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "moreButton"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A7338BF-C625-477B-BD5C-85D32FEF57F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WantToListen/AlbumDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "moreButton"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4A7338BF-C625-477B-BD5C-85D32FEF57F6 - aacf52e53de16548"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WantToListen.AlbumDetail.moreButton.getter : some"
+                  moduleName = "WantToListen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorgrajski/Library/Mobile%20Documents/com~apple~CloudDocs/xcode/WantToListen/WantToListen/AlbumDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "4A7338BF-C625-477B-BD5C-85D32FEF57F6 - 85b63e773f9ddc44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in WantToListen.AlbumDetail.moreButton.getter : some"
+                  moduleName = "WantToListen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorgrajski/Library/Mobile%20Documents/com~apple~CloudDocs/xcode/WantToListen/WantToListen/AlbumDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  uuid = "4A7338BF-C625-477B-BD5C-85D32FEF57F6 - 23b84fa5f182331c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in WantToListen.AlbumDetail.moreButton.getter : some"
+                  moduleName = "WantToListen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorgrajski/Library/Mobile%20Documents/com~apple~CloudDocs/xcode/WantToListen/WantToListen/AlbumDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "277">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8FDD0F6-75F7-46F2-9C5E-AB9EE72CDB7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WantToListen/AlbumDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "actionSheet"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80D99BC9-5022-43CD-94DB-4C7371FE37BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WantToListen/AlbumDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "actionSheet"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD70D6B4-E1CA-41F4-AF9A-EB11E09EC2A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WantToListen/AlbumDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "actionSheet"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "FD70D6B4-E1CA-41F4-AF9A-EB11E09EC2A5 - ca3897f1f01a88d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WantToListen.AlbumDetail.actionSheet.getter : SwiftUI.ActionSheet"
+                  moduleName = "WantToListen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorgrajski/Library/Mobile%20Documents/com~apple~CloudDocs/xcode/WantToListen/WantToListen/AlbumDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1964">
+               </Location>
+               <Location
+                  uuid = "FD70D6B4-E1CA-41F4-AF9A-EB11E09EC2A5 - 58278f1e592345d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in WantToListen.AlbumDetail.actionSheet.getter : SwiftUI.ActionSheet"
+                  moduleName = "WantToListen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victorgrajski/Library/Mobile%20Documents/com~apple~CloudDocs/xcode/WantToListen/WantToListen/AlbumDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "210">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
