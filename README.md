@@ -1,3 +1,3 @@
-# WantToListen
-
-https://victor-grajski.github.io/want-to-listen
+# How To Run
+* Open in XCode
+* Run in XCode
