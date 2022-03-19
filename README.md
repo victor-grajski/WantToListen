@@ -1,4 +1,5 @@
 # How To Run
+* Clone repo
 * Open in XCode
 * Run in XCode. Works best on iPhone 11 Pro, iPhone 12 mini, and iPhone 13 mini (as of 3/19/22)
 
