@@ -83,7 +83,6 @@ struct AlbumDetail: View {
                 ZStack {
                     Circle()
                         .fill(Color.init(UIColor.systemGray6))
-                        
                     
                     Image(systemName: "checkmark")
                         .imageScale(.medium)
@@ -100,8 +99,6 @@ struct AlbumDetail: View {
             ZStack {
                 Circle()
                     .fill(Color.init(UIColor.systemGray6))
-                    
-                    
                 
                 Image(systemName: "ellipsis")
                     .imageScale(.medium)
@@ -160,7 +157,6 @@ struct AlbumDetail: View {
                         .frame(width: 158, height: 48)
                     }
                     
-
                     Button(action: {}) {
                         HStack {
                             Image(systemName: "shuffle")
